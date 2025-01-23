@@ -1,20 +1,15 @@
 # Cybersecurity-Portfolio
 
-<a>Hi, I'm Jones Edem! <br/> <a href="https://www.linkedin.com/in/jonesedem/">Cybersecurity Professional</a> <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<a>Hi, I'm Jones Edem! <br/> <a href="https://www.linkedin.com/in/jonesedem/">Cybersecurity Professional</a>     
+<a href="https://linkedin.com/in/jonesedem/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+After 8 years of experience in IT services management, I’ve transitioned into the information security domain to deepen my expertise. To stay ahead in the rapidly evolving cybersecurity field, I’ve completed extensive training in Security Principles, Network Security, Penetration Testing, Incident Response, Access Control, Compliance, and Disaster Recovery. I’m passionate about leveraging my hands-on experience to address emerging security challenges and protect systems from vulnerabilities. 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Career Path 
+I am open to roles such as Cybersecurity Analyst, Security Operations Center (SOC) Analyst, and IT and Data Security Specialist.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
