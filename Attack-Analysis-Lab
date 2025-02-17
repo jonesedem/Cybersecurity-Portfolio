@@ -1,0 +1,20 @@
+Attack-Analysis-Lab/
+│
+├── README.md
+├── Part_1_Investigate_IOCs/
+│   ├── IOCs.md
+│   ├── hash_analysis_report.md
+│
+├── Part_2_Investigate_Malicious_Activity/
+│   ├── malicious_activity_analysis.md
+│   ├── malicious_process_tree_analysis.md
+│   ├── mitre_attack_matrix_analysis.md
+│
+├── Part_3_Investigate_More_Malicious_Activity/
+│   ├── second_malicious_analysis.md
+│   ├── third_malicious_analysis.md
+│
+├── Reflection_Questions.md
+└── resources/
+    ├── mitre_attack_matrix_images/
+    └── anyrun_sandbox_images/
