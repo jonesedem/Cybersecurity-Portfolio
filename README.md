@@ -13,7 +13,7 @@ I am open to roles such as Cybersecurity Analyst, Security Operations Center (SO
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Attack Analysis                               | <a href="https://google.com">Detection Lab</a>|
+| Attack Analysis                               | <a href="https://github.com/jonesedem/Attack-Analysis-Lab/blob/main/README.md">Attack Analysis Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
